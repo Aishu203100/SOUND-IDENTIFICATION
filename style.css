@@ -1,0 +1,18 @@
+body{
+    font-family:'Permanent Marker', cursive;
+    text-align:center;
+   background-color: rgb(227,231,221);
+}
+#record_sound
+{
+background-color:lightgreen;
+border-top: lightsalmon;
+border-left: lightskyblue;
+border-right: lightgoldenrodyellow;
+border-bottom: lightpink;
+width: 1000px;
+height:100px;
+font-size:25px;
+font-family: 'Satisfy', cursive;
+border-radius: 100px;
+}
